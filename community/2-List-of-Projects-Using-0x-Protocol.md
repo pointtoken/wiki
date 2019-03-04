@@ -11,7 +11,6 @@ These lists are composed of projects that publicly announced their interest in u
 * [ChronoBank](https://chronobank.io/)
 * [Coinbase Wallet](https://wallet.coinbase.com)
 * [CoinGecko](https://coingecko.com)
-* [Emoon](https://www.emoon.io)
 * [Dharma](https://dharma.io/)
 * [District0x](https://district0x.io/)
 * [dYdX](https://dydx.exchange/)
@@ -32,6 +31,7 @@ These lists are composed of projects that publicly announced their interest in u
 
 * [Amadeus](https://amadeusrelay.org)
 * [Bamboo Relay](https://www.bamboorelay.com/)
+* [Emoon](https://www.emoon.io)
 * [ERC dEX](https://ercdex.com)
 * [Ethfinex](https://www.ethfinex.com/)
 * [Instex](https://app.instex.io/)
